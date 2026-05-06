@@ -1,4 +1,4 @@
-Ffind Data Analyst Assessment
+Ffind Data Analyst Assessment - Adrienne Jenkins
 
 Objective
 Analyze the performance of three store branches using financial and customer feedback data to identify insights and make business recommendations.
