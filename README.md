@@ -1,11 +1,11 @@
-# 📊 Ffind Data Analyst Assessment
+Ffind Data Analyst Assessment
 
-## Objective
+Objective
 Analyze the performance of three store branches using financial and customer feedback data to identify insights and make business recommendations.
 
 ---
 
-## 📈 Profitability Analysis
+Profitability Analysis
 
 | Branch | Sales | Cost | Net Profit | Profit Margin |
 |--------|------|------|-----------|---------------|
@@ -15,7 +15,7 @@ Analyze the performance of three store branches using financial and customer fee
 
 ---
 
-## 📊 Key Insights
+Key Insights
 
 - **Branch B** is the top performer with the highest profit and margin.
 - **Branch A** is profitable but has operational inefficiencies (long queues).
@@ -23,7 +23,7 @@ Analyze the performance of three store branches using financial and customer fee
 
 ---
 
-## Customer Sentiment Ranking
+Customer Sentiment Ranking
 
 1. **Branch B** – consistently positive experience  
 2. **Branch A** – good service with minor issues  
@@ -31,7 +31,7 @@ Analyze the performance of three store branches using financial and customer fee
 
 ---
 
-## Recommendation
+Recommendation
 
 Branch B should receive the performance bonus due to strong financial performance and excellent customer feedback.  
 Branch A should focus on operational improvements to reduce wait times.  
@@ -39,7 +39,7 @@ Branch C requires a process improvement plan to reduce operating costs and addre
 
 ---
 
-## Bonus Analysis
+Bonus Analysis
 
 If Branch C reduces costs by 15%:
 
@@ -49,6 +49,6 @@ If Branch C reduces costs by 15%:
 
 ---
 
-## Approach
+Approach
 
 I calculated net profit and profit margin to evaluate financial performance, used customer feedback to assess sentiment, and combined both quantitative and qualitative insights to form recommendations.
